@@ -1,4 +1,4 @@
-Hi, I’m Victor Rojas
+## Hi, I’m Victor Rojas
 
 Data Science & Mathematics student @ Tecnológico de Monterrey  
 Data Engineer | Backend & AI Engineer | Co-founder @ Chaptter
