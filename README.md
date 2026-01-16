@@ -48,10 +48,10 @@ MVP validated with real clients; project backed by Google for Startups.
 ## Technical Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=py,postgres,js,cpp,java&perline=6)
+![Languages](https://skillicons.dev/icons?i=py,js,cpp,java&perline=6)
 
-### Backend & APIs
-![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb&perline=6)
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,postgres&perline=6)
 
 ### Cloud & DevOps
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,nginx&perline=6)
